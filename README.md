@@ -1,22 +1,33 @@
-# Olá, me chamo Yalê ! 
-## Bem vindo ao meu perfil GitHub 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FE4F7&background=FFF09B17&center=true&vCenter=true&random=false&width=280&lines=Ol%C3%A1%2C+me+chamo+Yal%C3%AA+)](https://git.io/typing-svg)
 
-## Ferramentas e Tecnologias
+Bem vindo ao meu perfil GitHub 👋
+<br />
+
+<h2>&nbsp&nbspPrincipais Habilidades:</h2>
+
+
+<br />
 
 <div style={{display="flex"}}>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-
+&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5">&nbsp&nbsp     
+<img alt="Static Badge" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3">&nbsp&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript">&nbsp&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react">
+&nbsp&nbsp
+<img alt ="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git">
 </div>
 
-<div>
+##
+
+<div style={{display="flex"}}>
 <a href="https://github.com/ericssendelima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=donut&theme=dark)](https://github.com/ericssendelima/github-readme-stats)
+
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ## - 📫 Como entrar em contato comigo:
 
