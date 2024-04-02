@@ -18,15 +18,7 @@ Bem vindo ao meu perfil GitHub 👋
 <!-- <img alt ="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git"> -->
 </div>
 
-##
 
-<div style={{display="flex"}}>
-<a href="https://github.com/ericssendelima">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=donut&theme=dark)](https://github.com/ericssendelima/github-readme-stats)
-
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=stars,prs,issues,contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 
 ## - 📫 Como entrar em contato comigo:
