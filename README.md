@@ -17,7 +17,7 @@ Bem vindo ao meu perfil GitHub 👋
 &nbsp&nbsp
 <!-- <img alt ="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git"> -->
 </div>
-
+<!--
 <br />
 
 <div style={{display="flex"}}>
@@ -30,7 +30,7 @@ Bem vindo ao meu perfil GitHub 👋
 </div>
 
 <br />
-
+-->
 ## - 📫 Como entrar em contato comigo:
 
 <div>
