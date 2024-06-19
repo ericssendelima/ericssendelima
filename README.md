@@ -20,10 +20,13 @@ Bem vindo ao meu perfil GitHub 👋
 
 <br />
 
-<div>
+<div style={{display="flex"}}>
 <a href="https://github.com/ericssendelima">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=donut&theme=dark&langs_count=5"/>
+
+
+<img loading="lazy"  width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br />
