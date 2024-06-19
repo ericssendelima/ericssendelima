@@ -19,7 +19,7 @@ Bem vindo ao meu perfil GitHub 👋
 </div>
 
 
-
+![](https://komarev.com/ghpvc/?username=ericssendelima)
 
 ## - 📫 Como entrar em contato comigo:
 
