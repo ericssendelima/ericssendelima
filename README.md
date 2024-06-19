@@ -18,8 +18,15 @@ Bem vindo ao meu perfil GitHub 👋
 <!-- <img alt ="Static Badge" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git"> -->
 </div>
 
+<br />
 
-![](https://komarev.com/ghpvc/?username=ericssendelima)
+<div>
+<a href="https://github.com/ericssendelima">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br />
 
 ## - 📫 Como entrar em contato comigo:
 
