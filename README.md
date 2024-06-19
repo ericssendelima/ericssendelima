@@ -28,9 +28,9 @@ Bem vindo ao meu perfil GitHub 👋
 
 <img loading="lazy"  width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-<br />
 -->
+<br />
+
 ## - 📫 Como entrar em contato comigo:
 
 <div>
