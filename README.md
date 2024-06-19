@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FE4F7&background=FFF09B17&center=true&vCenter=true&random=false&width=280&lines=Ol%C3%A1%2C+me+chamo+Yal%C3%AA+)](https://git.io/typing-svg)
 
-Bem vindo ao meu perfil GitHub 👋
+Bem vindo(a) ao meu perfil GitHub 👋
 <br />
 
 <h2>&nbsp&nbspPrincipais Habilidades:</h2>
