@@ -11,33 +11,28 @@ Bem vindo ao meu perfil GitHub 👋
 <br />
 
 <div style={{display="flex"}}>
-&nbsp
-<img alt="Static Badge" src="https://img.shields.io/badge/html5-0D1117?style=for-the-badge&logo=html5">&nbsp&nbsp     
-<img alt="Static Badge" src="https://img.shields.io/badge/css3-0D1117?style=for-the-badge&logo=css3">&nbsp&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript">&nbsp&nbsp
-<img alt="Static Badge" src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react">
-&nbsp&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react">&nbsp&nbsp
+<img alt="Static Badge" src=https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js">&nbsp&nbsp
-<img alt ="Static Badge" src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git">&nbsp&nbsp
 
 </div>
 
 ## **Estudando no momento:**
 <div>
 <img alt="Static Badge" src=https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
-<img alt="Static Badge" src=https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
+<img alt="Static Badge" src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js">&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-PostgreSql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
-
 </div>
 
 ## **Ferramentas:**
 <div>
+<img alt ="Static Badge" src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git">&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-render-0D1117?style=for-the-badge&logo=render&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
-
 </div>
 
 
