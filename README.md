@@ -3,7 +3,7 @@
 Bem vindo ao meu perfil GitHub 👋
 <br />
 
- ### [💻 Visite meu portfólio](https://portfolio-ericssen.vercel.app/)   
+ ### 💻 Clique aqui e visite[ **Meu Portfólio** 👈](https://portfolio-ericssen.vercel.app/)   
 
 <h2>&nbsp&nbspPrincipais Habilidades:</h2>
 
@@ -23,8 +23,7 @@ Bem vindo ao meu perfil GitHub 👋
 <div>
 <img alt="Static Badge" src=https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js">&nbsp&nbsp
-<img alt="Static Badge" src=https://img.shields.io/badge/-PostgreSql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
-<img alt="Static Badge" src=https://img.shields.io/badge/-NextJS-0D1117?style=for-the-badge&logo=nextdotjs&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
+<img alt="Static Badge" src=https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 </div>
 
 ## **Ferramentas:**
@@ -33,6 +32,7 @@ Bem vindo ao meu perfil GitHub 👋
 <img alt="Static Badge" src=https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-render-0D1117?style=for-the-badge&logo=render&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
+<img alt="Static Badge" src=https://img.shields.io/badge/-PostgreSql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 </div>
 
@@ -42,7 +42,7 @@ Bem vindo ao meu perfil GitHub 👋
 <div style={{display="flex"}}>
 <a href="https://github.com/ericssendelima">
 
-<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=donut&theme=dark&langs_count=7"/>
+<img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&layout=donut&theme=dark&langs_count=7&hide=html"/>
 
 
 <img loading="lazy"  width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
