@@ -43,7 +43,6 @@ Bem vindo ao meu perfil GitHub 👋
 <a href="https://github.com/ericssendelima">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericssendelima&theme=dark)
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=ericssendelima&hide=contribs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 </div>
 
