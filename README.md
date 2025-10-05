@@ -16,14 +16,8 @@ Bem vindo ao meu perfil GitHub 👋
 <img alt="Static Badge" src=https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js">&nbsp&nbsp
 <img alt="Static Badge" src="https://img.shields.io/badge/c%23-0D1117?style=for-the-badge&logo=csharp&logoColor=white">&nbsp&nbsp
-
-</div>
-
-## **Estudando no momento:**
-<div>
-<img alt="Static Badge" src=https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
-<img alt="Static Badge" src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js">&nbsp&nbsp
 <img alt="Static Badge" src=https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117>&nbsp&nbsp
+
 </div>
 
 ## **Ferramentas:**
