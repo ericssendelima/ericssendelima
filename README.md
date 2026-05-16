@@ -1,10 +1,7 @@
 Bem vindo ao meu perfil do GitHub 👋
 
 <div>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FE4F7&background=FFF09B17&center=true&vCenter=true&random=false&width=280&lines=Ol%C3%A1%2C+me+chamo+Yal%C3%AA+)">
-<br />
-
-Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Estou sempre em busca de novos desafios e acredito que um bom código pode, de fato, tornar o mundo um lugar um pouco melhor. Atualmente, estou focado em aprimorar minhas habilidades em arquitetura de software e performance no ecossistema .NET e JavaScript.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1FE4F7&background=FFF09B17&center=true&vCenter=true&random=false&width=280&lines=Ol%C3%A1%2C+me+chamo+Yal%C3%AA">
 </div>
 
  ### 💻 Clique aqui e visite[ **Meu Portfólio** 👈](https://portfolio-ericssen.vercel.app/)   
@@ -45,7 +42,7 @@ Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Estou semp
 <br />
 
 ### 🚀 Projeto em Destaque: E-commerce Page 🚀
-<p>Um projeto onde refatorei completamente a interface, focando em performance e código limpo.</p>
+<!-- <p>Um projeto onde refatorei completamente a interface, focando em performance e código limpo.</p> -->
 <p>
   <a href="https://seu-catalogo-liras.vercel.app"><strong>Ver Demo Ao Vivo »</strong></a>
   ·
@@ -59,7 +56,7 @@ Desenvolvedor apaixonado por criar soluções elegantes e eficientes. Estou semp
 <div>
  
 ### 🎨 Projeto em Destaque: AsciiSign 🎨
-<p>Um pacote NuGet que criei do zero para transformar texto em arte ASCII estilizada. Perfeito para dar um charme em aplicações de console!</p>
+<p>Um pacote NuGet que criei do zero para transformar texto em arte ASCII estilizada.</p>
 
 <p>
   <a href="https://www.nuget.org/packages/AsciiSign/">
